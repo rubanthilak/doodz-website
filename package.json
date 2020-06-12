@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.5.1",
-    "sal.js": "^0.7.6",
-    "scroll-out": "^2.2.11"
+    "sal.js": "^0.7.6"
   }
 }
